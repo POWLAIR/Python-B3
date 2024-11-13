@@ -1,0 +1,20 @@
+2024-10-03 15:43:08,292 - INFO - 🚀 Début du programme
+2024-10-03 15:43:08,292 - INFO - 🔄 Réinitialisation de la base de données...
+2024-10-03 15:43:08,393 - INFO - ✅ Base de données réinitialisée avec succès
+2024-10-03 15:43:08,393 - INFO - 🔌 Connexion à la base de données...
+2024-10-03 15:43:08,397 - INFO - ✅ Connexion à la base de données réussie
+2024-10-03 15:43:08,397 - INFO - 🔧 Création des tables...
+2024-10-03 15:43:08,494 - INFO - ✅ Tables créées avec succès
+2024-10-03 15:43:08,494 - INFO - 🔧 Désactivation des index pour accélérer les insertions
+2024-10-03 15:43:08,506 - INFO - 📊 Nombre total de fichiers JSON à traiter : 1000
+2024-10-03 15:43:08,506 - INFO - 🚧 Début du traitement des fichiers JSON
+2024-10-03 15:48:44,605 - INFO - 🚀 Début du programme
+2024-10-03 15:48:44,606 - INFO - 🔄 Réinitialisation de la base de données...
+2024-10-03 15:48:44,769 - INFO - ✅ Base de données réinitialisée avec succès
+2024-10-03 15:48:44,769 - INFO - 🔌 Connexion à la base de données...
+2024-10-03 15:48:44,772 - INFO - ✅ Connexion à la base de données réussie
+2024-10-03 15:48:44,773 - INFO - 🔧 Création des tables...
+2024-10-03 15:48:44,871 - INFO - ✅ Tables créées avec succès
+2024-10-03 15:48:44,871 - INFO - 🔧 Désactivation des index pour accélérer les insertions
+2024-10-03 15:48:44,886 - INFO - 📊 Nombre total de fichiers JSON à traiter : 1000
+2024-10-03 15:48:44,886 - INFO - 🚧 Début du traitement des fichiers JSON
